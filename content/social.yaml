@@ -1,8 +1,8 @@
 - name: linkedin
-  url: https://www.linkedin.com/in/sergeyovcharenko
+  url: https://www.linkedin.com/in/elena-ovcharenko/
 
 - name: twitter
-  url: https://twitter.com/sergeycode
+  url: https://twitter.com/ovcharenko_lena
 
 - name: facebook
   url:
@@ -20,7 +20,7 @@
   url:
 
 - name: github
-  url: https://github.com/sergeycode
+  url: https://github.com/elenyou
 
 - name: goodreads
   url:
@@ -33,4 +33,3 @@
 
 - name: medium
   url:
-

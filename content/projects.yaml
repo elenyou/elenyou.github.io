@@ -1,24 +1,7 @@
-- name: Terminal.io Resource Center
-  url: https://terminal.io/resources
-  description: Microsite made with Next.js, React, Chakra UI, Apollo, headless WordPress with GraphQL
+- name: See Projects here
+  url: https://elen.dev/
+  description: Portfolio with all my projects
   status: live
   tags:
-    - Next.js
-    - React
-    - Apollo
-    - GraphQL
-    - JavaScript
-    - WordPress
-  icon: website
-  image: images/terminal-resources.jpg
-
-- name: Task-it
-  url: https://snack.expo.io/@sergeycode/task-it-app
-  description: Todo app made with React Native and Redux. Add tasks, complete tasks, remove tasks, filter tasks. Swipe to remove. Stored in SQLite database. Stack navigation and tabs. Designed in Sketch.
-  status: live
-  tags:
-    - React Native
-    - JavaScript
-    - Sketch
-  icon: website
-  image: images/task-it.jpg
+  icon:
+  image:

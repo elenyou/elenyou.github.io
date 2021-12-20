@@ -1,21 +1,24 @@
 - profile:
-  initials: SO
-  name: Sergey Ovcharenko
-  email: s_ovcharenko@outlook.com
+  initials: LO
+  name: Lena Ovcharenko
+  email: elen.dev.ca@gmail.com
   profession: Frontend Developer
   image: images/profile.jpg
   location: London, Canada
   relocation: false
-  company: Terminal
-  for_hire: false
+  company: side sea | Hopsie Inc
+  for_hire: true
   focus: Next.js
   focus_url: https://nextjs.org
   about: |
 
   skills:
+    - HTML/CSS
+    - JavaScript
     - Next.js
     - React
-    - JavaScript
+    - WordPress
+    - Bootstrap Foundation
   tools:
     - VSCode
     - iTerm
