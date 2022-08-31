@@ -6,25 +6,21 @@
   image: images/profile.jpg
   location: London, Canada
   relocation: false
-  company: side sea | Hopsie Inc
-  for_hire: true
+  company: Voxtur Inc
+  for_hire: false
   focus: Next.js
   focus_url: https://nextjs.org
   about: |
 
   skills:
-    - HTML/CSS
     - JavaScript
     - Next.js
-    - React
-    - WordPress
-    - Bootstrap Foundation
+    - React.js
+    - HTML/CSS
+    - Chakra-UI Bootstrap
   tools:
+    - WebStorm
     - VSCode
     - iTerm
     - Sketch
-  budget:
-    currency: $
-    min: 5
-    max: 50
-    default: 10
+    - Figma
